@@ -1,0 +1,5 @@
+alt = 0 - 10000 m
+dtamb = -40 - 40 K
+XM = 0 - 0.8
+ZXN_HPC = 0.6 - 1.0
+PWX = 0 for offdesing, (-3000 - 3000 kW)*(ZXN_HPC^3)*delta2 for transients
